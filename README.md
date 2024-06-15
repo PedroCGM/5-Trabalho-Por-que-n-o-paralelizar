@@ -1,0 +1,1 @@
+# 5-Trabalho-Por-que-n-o-paralelizar
